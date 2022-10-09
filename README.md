@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/stvoidmain/stvoidmain/blob/master/devcard.svg" width="400" alt="Jerónimo Milea's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/stvoidmain/stvoidmain/blob/main/devcard.svg" width="400" alt="Jerónimo Milea's Dev Card"/></a>
 <!--
 **stvoidmain/stvoidmain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
